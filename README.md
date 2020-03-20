@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## IMPORTANT NOTES
+The project that is uploaded to github does not contain the node_modules package, the node_modules is the basic package included when 
+launching a React.js project
+
+## Usage
+Use this projects as you wish, copy paste it, this webapp is for educational purposes =) 
+
 ## Available Scripts
 
 In the project directory, you can run:
